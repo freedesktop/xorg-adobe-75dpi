@@ -23,7 +23,7 @@ dnl Process this file with autoconf to create configure.
 
 AC_PREREQ([2.57])
 AC_INIT([font-adobe-75dpi], [1.0.3],
-        [https://bugs.freedesktop.org/enter_bug.cgi?product=xorg],
+        [https://gitlab.freedesktop.org/xorg/font/adobe-75dpi/issues],
         [font-adobe-75dpi])
 AM_INIT_AUTOMAKE([foreign dist-bzip2])
 
